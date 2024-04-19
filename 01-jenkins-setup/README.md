@@ -6,7 +6,7 @@
 ## Setup Architecture 
 
 ![jenkins-ha](https://user-images.githubusercontent.com/106984297/226690774-66731923-a2cd-45cc-b387-c959e5b713c1.png)
-01-jenkins-setup/Screenshot-2024-04-05-at-14.20.22.png 
+![jenkins-ha2](https://github.com/boltpius/devops-projects/01-jenkins-setup/Screenshot-2024-04-05-at-14.20.22.png)
 
 ## Project Documentation.
 
