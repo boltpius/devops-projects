@@ -1,6 +1,6 @@
 variable "ami_id" {
   type    = string
-  default = "ami-0735c191cf914754d"
+  default = "ami-08116b9957a259459"
 }
 
 variable "efs_mount_point" {
